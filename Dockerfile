@@ -1,4 +1,4 @@
-FROM fronteo/fhcjupytertf:v0.3.2
+FROM fronteo/fhcjupytertf:v0.3.4
 MAINTAINER Wu Tong
 
 RUN pip install ipywidgets
